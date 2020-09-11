@@ -1,3 +1,6 @@
-html
-json
+*.html
+*.json
+*.log
+
 path/
+__pycach__/
